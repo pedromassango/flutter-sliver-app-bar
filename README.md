@@ -1,6 +1,6 @@
-# flutter_silver_bar
+# FlutterSilverAppBar
 
-A new Flutter application. to sow an example about SilverAppBar
+A new Flutter application. To sow an example about SilverAppBar Widget
 
 ## Getting Started
 
