@@ -64,6 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
           SliverAppBar(
             title: Text("Silver Bar"),
             expandedHeight: 200.0,
+            backgroundColor: Colors.red,
 
           ),
           new SliverList(
